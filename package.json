@@ -1,0 +1,22 @@
+{
+  "name": "neosvr-inventory-management-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolyLogiX-Studio/NeosVR-Inventory-Management-Tool.git"
+  },
+  "author": "Bitman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PolyLogiX-Studio/NeosVR-Inventory-Management-Tool/issues"
+  },
+  "homepage": "https://github.com/PolyLogiX-Studio/NeosVR-Inventory-Management-Tool#readme",
+  "dependencies": {
+    "@bombitmanbomb/neosjs": "^1.9.1-alpha.4"
+  }
+}
